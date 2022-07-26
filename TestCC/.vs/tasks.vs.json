@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "工作-TestCC",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "工作-TestCC",
+      "appliesTo": "TestCC.cpp",
+      "type": "launch"
+    }
+  ]
+}
